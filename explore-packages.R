@@ -1,3 +1,8 @@
+#' ---
+#' title: "A very interesting Report"
+#' output: github_document
+#' ---
+
 library(tidyverse)
 
 .libPaths()
