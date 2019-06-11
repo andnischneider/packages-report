@@ -2,7 +2,7 @@ library(tidyverse)
 
 .libPaths()
 
-ipt <- installed.packages() %>%
+ipt = installed.packages() %>%
   as_tibble() %>%
   select(Package, LibPath, Version, Priority, Built)
 ipt
