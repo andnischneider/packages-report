@@ -4,4 +4,6 @@ A line I added from Rstudio.
 
 A line I added from the browser.
 
-ieahvshsihsvilsrjrbli
+ieahvshsihsvilsrjrbli (local version)
+Hello. (remote version)
+
