@@ -12,3 +12,4 @@ ipt = installed.packages() %>%
   select(Package, LibPath, Version, Priority, Built)
 ipt
 
+# a comment added on GitHub in browser
